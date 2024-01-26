@@ -9,9 +9,9 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
 
-- :technologist: I am a full-stack developer.
-- 🏕️: I’m currently Ongoing <b>BSc(Hons)Software Engineering</b> at `ICBT Campus`.
-- :student: I’m currently learning `JAVA` and `WEB` Development.
+- :technologist: I am a `full-stack` developer.
+- 🏕️ I’m currently Ongoing BSc(Hons) Software Engineering at `ICBT Campus`.
+- :student: I’m currently learning `JAVA`, `OOP` and `WEB` Development.
 - :technologist: I love using Software as a solution for every Problem
 - :nerd_face: Always learning new things.
 - :boom: You can visit [MY WEBSITE](https://dilshanwarnasuriya.github.io/Student-information/).
