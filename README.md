@@ -9,7 +9,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
 
-- :technologist: i am a full-stack developer.
+- :technologist: I am a full-stack developer.
 - 🏕️: I’m currently Ongoing <b>BSc(Hons)Software Engineering</b> at `ICBT Campus`.
 - :student: I’m currently learning `JAVA` and `WEB` Development.
 - :technologist: I love using Software as a solution for every Problem
