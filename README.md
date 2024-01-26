@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="20%" alt="Github" src="https://github.com/DIlshanWarnasuriya/DIlshanWarnasuriya/blob/main/cccccc.png" >
+    <img width="15%" alt="Github" src="https://github.com/DIlshanWarnasuriya/DIlshanWarnasuriya/blob/main/cccccc.png" >
 </p>
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , You are Welcome</h1>
 
