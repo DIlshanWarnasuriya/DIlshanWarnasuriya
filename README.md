@@ -2,14 +2,14 @@
 <p align="center">
     <img width="15%" alt="Github" src="https://github.com/DIlshanWarnasuriya/DIlshanWarnasuriya/blob/main/cccccc.png" >
 </p>
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , You are Welcome</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I am Dilshan</h1>
 
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
 
-- 🤵: I am W.N.A.Y. Dilshan Warnasuriya.
+- 🏕️: I’m currently Ongoing Training Program ICD at `iCET`.
 - 🏕️: I’m currently Ongoing <b>BSc(Hons)Software Engineering</b> at `ICBT Campus`.
 - :student: I’m currently learning `JAVA` and `WEB` Development.
 - :technologist: I love using Software as a solution for every Problem
