@@ -9,7 +9,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 </br></br>
 
-<p>Hello, I'm Yashodha Dilshan, a driven 25-year-old full-stack software engineer from Kadawatha, Weston Province. Armed with a Higher Diploma in Computing and Software Engineering, I specialize in crafting seamless digital solutions. Passionate about innovation and problem-solving, I'm eager to collaborate and push boundaries in the tech industry</p>
+<p width = 60% >Hello, I'm Yashodha Dilshan, a driven 25-year-old full-stack software engineer from Kadawatha, Weston Province. Armed with a Higher Diploma in Computing and Software Engineering, I specialize in crafting seamless digital solutions. Passionate about innovation and problem-solving, I'm eager to collaborate and push boundaries in the tech industry</p>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
