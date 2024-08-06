@@ -10,7 +10,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 </br></br>
 :🔭 I am a full-stack software engineer.</br>
-:student: I’m done Higher Diploma in Computing and Software Engineering at ICBT Campus.</br>
+:student: I’m done Higher Diploma in Computing and Software Engineering</br>
 🏕️ I’m from Kadawatha, Weston Province and I’m 25.</br>
 :technologist: I specialize in crafting seamless digital solutions</br>
 :nerd_face: Passionate about innovation and problem-solving.</br>
