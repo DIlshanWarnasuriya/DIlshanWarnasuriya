@@ -10,7 +10,7 @@
 </br></br>
 
   - :technologist: I am a full-stack software engineer.
-  - :student: I’m done Higher Diploma in Computing and Software Engineering at `ICBT Campus`.
+  - :student: I’m done Higher Diploma in Computing and Software Engineering at ICBT Campus.
   - 🏕️ I’m from Kadawatha, Weston Provinceand I’m 25.
   - :technologist: I specialize in crafting seamless digital solutions
   - :nerd_face: Passionate about innovation and problem-solving.
