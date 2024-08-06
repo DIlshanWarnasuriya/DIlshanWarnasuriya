@@ -11,7 +11,7 @@
 
   - :technologist: I am a full-stack software engineer.
   - :student: I’m done Higher Diploma in Computing and Software Engineering at ICBT Campus.
-  - 🏕️ I’m from Kadawatha, Weston Provinceand I’m 25.
+  - 🏕️ I’m from Kadawatha, Weston Province and I’m 25.
   - :technologist: I specialize in crafting seamless digital solutions
   - :nerd_face: Passionate about innovation and problem-solving.
   - :boom: You can visit [MY WEBSITE](https://dilshanwarnasuriya.github.io/Student-information/).
